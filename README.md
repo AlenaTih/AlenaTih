@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlenaTih
 - 👀 I’m interested in AI, design, UX/UI, animations, and all things visual.
 - 🌱 I’m currently learning Frontend Development at Scrimba.
-- 💞️ I’m looking to collaborate on JavaScript projects.
+- 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 How to reach me: alyonatihomirova9@gmail.com
 
 <!---
