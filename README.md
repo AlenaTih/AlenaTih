@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlenaTih
+- 👀 I’m a Frontend engineer, building things.
 - 👀 I’m interested in AI, design, UX/UI, and all things visual.
 - 🌱 I’m currently learning Frontend Development at Scrimba and working towards becoming a software engineer.
 - 💞️ I’m looking to collaborate on Frontend projects.
